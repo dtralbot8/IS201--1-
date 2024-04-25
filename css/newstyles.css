@@ -1,0 +1,35 @@
+p{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#top{
+    text-decoration: underline;
+}
+
+.emphasizeText{
+    font-style: italic;
+    color: #7fffd4;
+}
+
+div {
+    background-color: rgb(146, 153, 153);
+}
+
+body{
+    background-color: rgb(139, 137, 137); 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    border: 5px solid black;
+    margin: 50px;
+    padding: 10px;
+}
+
+ul{
+    list-style-position: inside;
+    
+}
+
+ol{
+    list-style-position: inside;
+}
